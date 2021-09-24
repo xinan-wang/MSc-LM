@@ -1,0 +1,447 @@
+event,dist,stroke,sex,course,time
+50 m Freestyle,50,Freestyle,M,Long,21.4
+50 m Freestyle,50,Freestyle,M,Long,21.41
+50 m Freestyle,50,Freestyle,M,Long,21.49
+50 m Freestyle,50,Freestyle,M,Long,21.68
+50 m Freestyle,50,Freestyle,M,Long,21.74
+50 m Freestyle,50,Freestyle,M,Long,21.79
+50 m Freestyle,50,Freestyle,M,Long,21.79
+50 m Freestyle,50,Freestyle,M,Long,22.08
+100 m Freestyle,100,Freestyle,M,Long,47.58
+100 m Freestyle,100,Freestyle,M,Long,47.8
+100 m Freestyle,100,Freestyle,M,Long,47.85
+100 m Freestyle,100,Freestyle,M,Long,47.88
+100 m Freestyle,100,Freestyle,M,Long,48.01
+100 m Freestyle,100,Freestyle,M,Long,48.02
+100 m Freestyle,100,Freestyle,M,Long,48.12
+100 m Freestyle,100,Freestyle,M,Long,48.41
+200 m Freestyle,200,Freestyle,M,Long,104.65
+200 m Freestyle,200,Freestyle,M,Long,105.2
+200 m Freestyle,200,Freestyle,M,Long,105.23
+200 m Freestyle,200,Freestyle,M,Long,105.49
+200 m Freestyle,200,Freestyle,M,Long,105.58
+200 m Freestyle,200,Freestyle,M,Long,105.84
+200 m Freestyle,200,Freestyle,M,Long,105.9
+200 m Freestyle,200,Freestyle,M,Long,105.91
+400 m Freestyle,400,Freestyle,M,Long,221.55
+400 m Freestyle,400,Freestyle,M,Long,221.68
+400 m Freestyle,400,Freestyle,M,Long,223.49
+400 m Freestyle,400,Freestyle,M,Long,224.01
+400 m Freestyle,400,Freestyle,M,Long,224.16
+400 m Freestyle,400,Freestyle,M,Long,224.68
+400 m Freestyle,400,Freestyle,M,Long,225.28
+400 m Freestyle,400,Freestyle,M,Long,229.07
+100 m Backstroke,100,Backstroke,M,Long,51.97
+100 m Backstroke,100,Backstroke,M,Long,52.31
+100 m Backstroke,100,Backstroke,M,Long,52.4
+100 m Backstroke,100,Backstroke,M,Long,52.43
+100 m Backstroke,100,Backstroke,M,Long,52.7
+100 m Backstroke,100,Backstroke,M,Long,52.74
+100 m Backstroke,100,Backstroke,M,Long,53.42
+100 m Backstroke,100,Backstroke,M,Long,53.5
+200 m Backstroke,200,Backstroke,M,Long,113.62
+200 m Backstroke,200,Backstroke,M,Long,113.96
+200 m Backstroke,200,Backstroke,M,Long,113.97
+200 m Backstroke,200,Backstroke,M,Long,115.16
+200 m Backstroke,200,Backstroke,M,Long,115.52
+200 m Backstroke,200,Backstroke,M,Long,115.89
+200 m Backstroke,200,Backstroke,M,Long,116.27
+200 m Backstroke,200,Backstroke,M,Long,116.36
+100 m Breaststroke,100,Breaststroke,M,Long,57.13
+100 m Breaststroke,100,Breaststroke,M,Long,58.69
+100 m Breaststroke,100,Breaststroke,M,Long,58.87
+100 m Breaststroke,100,Breaststroke,M,Long,59.22
+100 m Breaststroke,100,Breaststroke,M,Long,59.31
+100 m Breaststroke,100,Breaststroke,M,Long,59.37
+100 m Breaststroke,100,Breaststroke,M,Long,59.38
+100 m Breaststroke,100,Breaststroke,M,Long,59.85
+200 m Breaststroke,200,Breaststroke,M,Long,127.46
+200 m Breaststroke,200,Breaststroke,M,Long,127.53
+200 m Breaststroke,200,Breaststroke,M,Long,127.7
+200 m Breaststroke,200,Breaststroke,M,Long,127.78
+200 m Breaststroke,200,Breaststroke,M,Long,127.8
+200 m Breaststroke,200,Breaststroke,M,Long,127.87
+200 m Breaststroke,200,Breaststroke,M,Long,128
+200 m Breaststroke,200,Breaststroke,M,Long,128.34
+100 m Butterfly,100,Butterfly,M,Long,50.39
+100 m Butterfly,100,Butterfly,M,Long,51.14
+100 m Butterfly,100,Butterfly,M,Long,51.14
+100 m Butterfly,100,Butterfly,M,Long,51.14
+100 m Butterfly,100,Butterfly,M,Long,51.26
+100 m Butterfly,100,Butterfly,M,Long,51.58
+100 m Butterfly,100,Butterfly,M,Long,51.73
+100 m Butterfly,100,Butterfly,M,Long,51.84
+200 m Butterfly,200,Butterfly,M,Long,113.36
+200 m Butterfly,200,Butterfly,M,Long,113.4
+200 m Butterfly,200,Butterfly,M,Long,113.62
+200 m Butterfly,200,Butterfly,M,Long,114.06
+200 m Butterfly,200,Butterfly,M,Long,114.82
+200 m Butterfly,200,Butterfly,M,Long,115.64
+200 m Butterfly,200,Butterfly,M,Long,116.24
+200 m Butterfly,200,Butterfly,M,Long,117.04
+200 m Individual Medley,200,Medley,M,Long,114.66
+200 m Individual Medley,200,Medley,M,Long,116.61
+200 m Individual Medley,200,Medley,M,Long,117.05
+200 m Individual Medley,200,Medley,M,Long,117.21
+200 m Individual Medley,200,Medley,M,Long,117.47
+200 m Individual Medley,200,Medley,M,Long,117.48
+200 m Individual Medley,200,Medley,M,Long,118.02
+200 m Individual Medley,200,Medley,M,Long,118.54
+400 m Individual Medley,400,Medley,M,Long,246.05
+400 m Individual Medley,400,Medley,M,Long,246.75
+400 m Individual Medley,400,Medley,M,Long,249.71
+400 m Individual Medley,400,Medley,M,Long,251.62
+400 m Individual Medley,400,Medley,M,Long,251.68
+400 m Individual Medley,400,Medley,M,Long,251.9
+400 m Individual Medley,400,Medley,M,Long,255.48
+400 m Individual Medley,400,Medley,M,Long,256.58
+50 m Freestyle,50,Freestyle,F,Long,24.07
+50 m Freestyle,50,Freestyle,F,Long,24.09
+50 m Freestyle,50,Freestyle,F,Long,24.11
+50 m Freestyle,50,Freestyle,F,Long,24.13
+50 m Freestyle,50,Freestyle,F,Long,24.15
+50 m Freestyle,50,Freestyle,F,Long,24.19
+50 m Freestyle,50,Freestyle,F,Long,24.42
+50 m Freestyle,50,Freestyle,F,Long,24.69
+100 m Freestyle,100,Freestyle,F,Long,52.7
+100 m Freestyle,100,Freestyle,F,Long,52.7
+100 m Freestyle,100,Freestyle,F,Long,52.99
+100 m Freestyle,100,Freestyle,F,Long,53.04
+100 m Freestyle,100,Freestyle,F,Long,53.08
+100 m Freestyle,100,Freestyle,F,Long,53.24
+100 m Freestyle,100,Freestyle,F,Long,53.3
+100 m Freestyle,100,Freestyle,F,Long,53.36
+200 m Freestyle,200,Freestyle,F,Long,113.73
+200 m Freestyle,200,Freestyle,F,Long,114.08
+200 m Freestyle,200,Freestyle,F,Long,114.92
+200 m Freestyle,200,Freestyle,F,Long,115.18
+200 m Freestyle,200,Freestyle,F,Long,115.25
+200 m Freestyle,200,Freestyle,F,Long,115.25
+200 m Freestyle,200,Freestyle,F,Long,116.27
+200 m Freestyle,200,Freestyle,F,Long,116.29
+400 m Freestyle,400,Freestyle,F,Long,236.46
+400 m Freestyle,400,Freestyle,F,Long,241.23
+400 m Freestyle,400,Freestyle,F,Long,241.92
+400 m Freestyle,400,Freestyle,F,Long,242.37
+400 m Freestyle,400,Freestyle,F,Long,244.69
+400 m Freestyle,400,Freestyle,F,Long,245.3
+400 m Freestyle,400,Freestyle,F,Long,245.68
+400 m Freestyle,400,Freestyle,F,Long,246.98
+100 m Backstroke,100,Backstroke,F,Long,58.45
+100 m Backstroke,100,Backstroke,F,Long,58.75
+100 m Backstroke,100,Backstroke,F,Long,58.76
+100 m Backstroke,100,Backstroke,F,Long,58.76
+100 m Backstroke,100,Backstroke,F,Long,58.8
+100 m Backstroke,100,Backstroke,F,Long,58.95
+100 m Backstroke,100,Backstroke,F,Long,59.19
+100 m Backstroke,100,Backstroke,F,Long,59.23
+200 m Backstroke,200,Backstroke,F,Long,125.99
+200 m Backstroke,200,Backstroke,F,Long,126.05
+200 m Backstroke,200,Backstroke,F,Long,127.54
+200 m Backstroke,200,Backstroke,F,Long,127.89
+200 m Backstroke,200,Backstroke,F,Long,128.02
+200 m Backstroke,200,Backstroke,F,Long,128.8
+200 m Backstroke,200,Backstroke,F,Long,129.03
+200 m Backstroke,200,Backstroke,F,Long,129.44
+100 m Breaststroke,100,Breaststroke,F,Long,64.93
+100 m Breaststroke,100,Breaststroke,F,Long,65.5
+100 m Breaststroke,100,Breaststroke,F,Long,65.69
+100 m Breaststroke,100,Breaststroke,F,Long,66.37
+100 m Breaststroke,100,Breaststroke,F,Long,66.68
+100 m Breaststroke,100,Breaststroke,F,Long,67.18
+100 m Breaststroke,100,Breaststroke,F,Long,67.32
+100 m Breaststroke,100,Breaststroke,F,Long,68.1
+200 m Breaststroke,200,Breaststroke,F,Long,140.3
+200 m Breaststroke,200,Breaststroke,F,Long,141.97
+200 m Breaststroke,200,Breaststroke,F,Long,142.28
+200 m Breaststroke,200,Breaststroke,F,Long,142.34
+200 m Breaststroke,200,Breaststroke,F,Long,142.43
+200 m Breaststroke,200,Breaststroke,F,Long,142.72
+200 m Breaststroke,200,Breaststroke,F,Long,143.19
+200 m Breaststroke,200,Breaststroke,F,Long,143.74
+100 m Butterfly,100,Butterfly,F,Long,55.48
+100 m Butterfly,100,Butterfly,F,Long,56.46
+100 m Butterfly,100,Butterfly,F,Long,56.63
+100 m Butterfly,100,Butterfly,F,Long,56.76
+100 m Butterfly,100,Butterfly,F,Long,56.86
+100 m Butterfly,100,Butterfly,F,Long,57.05
+100 m Butterfly,100,Butterfly,F,Long,57.17
+200 m Butterfly,200,Butterfly,F,Long,124.85
+200 m Butterfly,200,Butterfly,F,Long,124.88
+200 m Butterfly,200,Butterfly,F,Long,125.2
+200 m Butterfly,200,Butterfly,F,Long,125.9
+200 m Butterfly,200,Butterfly,F,Long,127.37
+200 m Butterfly,200,Butterfly,F,Long,127.4
+200 m Butterfly,200,Butterfly,F,Long,127.71
+200 m Butterfly,200,Butterfly,F,Long,127.87
+200 m Individual Medley,200,Medley,F,Long,126.58
+200 m Individual Medley,200,Medley,F,Long,126.88
+200 m Individual Medley,200,Medley,F,Long,128.79
+200 m Individual Medley,200,Medley,F,Long,129.21
+200 m Individual Medley,200,Medley,F,Long,130.88
+200 m Individual Medley,200,Medley,F,Long,131.22
+200 m Individual Medley,200,Medley,F,Long,132.28
+200 m Individual Medley,200,Medley,F,Long,133.56
+400 m Individual Medley,400,Medley,F,Long,266.36
+400 m Individual Medley,400,Medley,F,Long,271.15
+400 m Individual Medley,400,Medley,F,Long,272.39
+400 m Individual Medley,400,Medley,F,Long,272.54
+400 m Individual Medley,400,Medley,F,Long,274.7
+400 m Individual Medley,400,Medley,F,Long,274.98
+400 m Individual Medley,400,Medley,F,Long,275.04
+400 m Individual Medley,400,Medley,F,Long,278.06
+50 m Freestyle,50,Freestyle,M,Short,21.1
+50 m Freestyle,50,Freestyle,M,Short,21.14
+50 m Freestyle,50,Freestyle,M,Short,21.23
+50 m Freestyle,50,Freestyle,M,Short,21.28
+50 m Freestyle,50,Freestyle,M,Short,21.29
+50 m Freestyle,50,Freestyle,M,Short,21.39
+50 m Freestyle,50,Freestyle,M,Short,21.43
+50 m Freestyle,50,Freestyle,M,Short,21.46
+100 m Freestyle,100,Freestyle,M,Short,46.58
+100 m Freestyle,100,Freestyle,M,Short,46.59
+100 m Freestyle,100,Freestyle,M,Short,46.7
+100 m Freestyle,100,Freestyle,M,Short,46.88
+100 m Freestyle,100,Freestyle,M,Short,46.95
+100 m Freestyle,100,Freestyle,M,Short,47.08
+100 m Freestyle,100,Freestyle,M,Short,47.09
+100 m Freestyle,100,Freestyle,M,Short,47.44
+200 m Freestyle,200,Freestyle,M,Short,101.03
+200 m Freestyle,200,Freestyle,M,Short,101.65
+200 m Freestyle,200,Freestyle,M,Short,101.95
+200 m Freestyle,200,Freestyle,M,Short,102.48
+200 m Freestyle,200,Freestyle,M,Short,103.22
+200 m Freestyle,200,Freestyle,M,Short,103.22
+200 m Freestyle,200,Freestyle,M,Short,103.51
+200 m Freestyle,200,Freestyle,M,Short,103.69
+400 m Freestyle,400,Freestyle,M,Short,214.59
+400 m Freestyle,400,Freestyle,M,Short,215.3
+400 m Freestyle,400,Freestyle,M,Short,217.65
+400 m Freestyle,400,Freestyle,M,Short,217.9
+400 m Freestyle,400,Freestyle,M,Short,219.35
+400 m Freestyle,400,Freestyle,M,Short,219.91
+400 m Freestyle,400,Freestyle,M,Short,220.2
+400 m Freestyle,400,Freestyle,M,Short,223.63
+50 m Backstroke,50,Backstroke,M,Short,22.85
+50 m Backstroke,50,Backstroke,M,Short,22.99
+50 m Backstroke,50,Backstroke,M,Short,23.03
+50 m Backstroke,50,Backstroke,M,Short,23.26
+50 m Backstroke,50,Backstroke,M,Short,23.32
+50 m Backstroke,50,Backstroke,M,Short,23.4
+50 m Backstroke,50,Backstroke,M,Short,23.4
+50 m Backstroke,50,Backstroke,M,Short,23.54
+100 m Backstroke,100,Backstroke,M,Short,49.65
+100 m Backstroke,100,Backstroke,M,Short,49.69
+100 m Backstroke,100,Backstroke,M,Short,50.02
+100 m Backstroke,100,Backstroke,M,Short,50.21
+100 m Backstroke,100,Backstroke,M,Short,50.22
+100 m Backstroke,100,Backstroke,M,Short,50.24
+100 m Backstroke,100,Backstroke,M,Short,50.52
+100 m Backstroke,100,Backstroke,M,Short,50.95
+200 m Backstroke,200,Backstroke,M,Short,107.63
+200 m Backstroke,200,Backstroke,M,Short,108.98
+200 m Backstroke,200,Backstroke,M,Short,109.18
+200 m Backstroke,200,Backstroke,M,Short,109.25
+200 m Backstroke,200,Backstroke,M,Short,110.87
+200 m Backstroke,200,Backstroke,M,Short,111.37
+200 m Backstroke,200,Backstroke,M,Short,112.16
+200 m Backstroke,200,Backstroke,M,Short,112.57
+50 m Breaststroke,50,Breaststroke,M,Short,25.64
+50 m Breaststroke,50,Breaststroke,M,Short,25.85
+50 m Breaststroke,50,Breaststroke,M,Short,25.98
+50 m Breaststroke,50,Breaststroke,M,Short,26.03
+50 m Breaststroke,50,Breaststroke,M,Short,26.13
+50 m Breaststroke,50,Breaststroke,M,Short,26.13
+50 m Breaststroke,50,Breaststroke,M,Short,26.18
+50 m Breaststroke,50,Breaststroke,M,Short,26.18
+100 m Breaststroke,100,Breaststroke,M,Short,56.77
+100 m Breaststroke,100,Breaststroke,M,Short,57
+100 m Breaststroke,100,Breaststroke,M,Short,57.04
+100 m Breaststroke,100,Breaststroke,M,Short,57.05
+100 m Breaststroke,100,Breaststroke,M,Short,57.07
+100 m Breaststroke,100,Breaststroke,M,Short,57.08
+100 m Breaststroke,100,Breaststroke,M,Short,57.22
+100 m Breaststroke,100,Breaststroke,M,Short,57.28
+200 m Breaststroke,200,Breaststroke,M,Short,121.21
+200 m Breaststroke,200,Breaststroke,M,Short,122.71
+200 m Breaststroke,200,Breaststroke,M,Short,123.09
+200 m Breaststroke,200,Breaststroke,M,Short,123.79
+200 m Breaststroke,200,Breaststroke,M,Short,123.96
+200 m Breaststroke,200,Breaststroke,M,Short,124.83
+200 m Breaststroke,200,Breaststroke,M,Short,124.97
+200 m Breaststroke,200,Breaststroke,M,Short,125.4
+50 m Butterfly,50,Butterfly,M,Short,21.98
+50 m Butterfly,50,Butterfly,M,Short,22.4
+50 m Butterfly,50,Butterfly,M,Short,22.47
+50 m Butterfly,50,Butterfly,M,Short,22.55
+50 m Butterfly,50,Butterfly,M,Short,22.56
+50 m Butterfly,50,Butterfly,M,Short,22.62
+50 m Butterfly,50,Butterfly,M,Short,22.68
+50 m Butterfly,50,Butterfly,M,Short,22.84
+100 m Butterfly,100,Butterfly,M,Short,48.08
+100 m Butterfly,100,Butterfly,M,Short,49.04
+100 m Butterfly,100,Butterfly,M,Short,49.31
+100 m Butterfly,100,Butterfly,M,Short,49.47
+100 m Butterfly,100,Butterfly,M,Short,50.16
+100 m Butterfly,100,Butterfly,M,Short,50.37
+100 m Butterfly,100,Butterfly,M,Short,50.53
+100 m Butterfly,100,Butterfly,M,Short,50.77
+200 m Butterfly,200,Butterfly,M,Short,108.76
+200 m Butterfly,200,Butterfly,M,Short,109.5
+200 m Butterfly,200,Butterfly,M,Short,109.97
+200 m Butterfly,200,Butterfly,M,Short,111.41
+200 m Butterfly,200,Butterfly,M,Short,112.65
+200 m Butterfly,200,Butterfly,M,Short,112.68
+200 m Butterfly,200,Butterfly,M,Short,113.15
+200 m Butterfly,200,Butterfly,M,Short,113.64
+100 m Individual Medley,100,Medley,M,Short,51.84
+100 m Individual Medley,100,Medley,M,Short,52.01
+100 m Individual Medley,100,Medley,M,Short,52.17
+100 m Individual Medley,100,Medley,M,Short,52.21
+100 m Individual Medley,100,Medley,M,Short,52.78
+100 m Individual Medley,100,Medley,M,Short,52.83
+100 m Individual Medley,100,Medley,M,Short,52.83
+100 m Individual Medley,100,Medley,M,Short,53.31
+200 m Individual Medley,200,Medley,M,Short,111.74
+200 m Individual Medley,200,Medley,M,Short,112.07
+200 m Individual Medley,200,Medley,M,Short,112.89
+200 m Individual Medley,200,Medley,M,Short,112.91
+200 m Individual Medley,200,Medley,M,Short,113.47
+200 m Individual Medley,200,Medley,M,Short,114.45
+200 m Individual Medley,200,Medley,M,Short,115.51
+200 m Individual Medley,200,Medley,M,Short,115.8
+400 m Individual Medley,400,Medley,M,Short,239.24
+400 m Individual Medley,400,Medley,M,Short,240.66
+400 m Individual Medley,400,Medley,M,Short,241.56
+400 m Individual Medley,400,Medley,M,Short,241.94
+400 m Individual Medley,400,Medley,M,Short,244.57
+400 m Individual Medley,400,Medley,M,Short,244.89
+400 m Individual Medley,400,Medley,M,Short,244.9
+400 m Individual Medley,400,Medley,M,Short,246.02
+50 m Freestyle,50,Freestyle,F,Short,23.6
+50 m Freestyle,50,Freestyle,F,Short,23.9
+50 m Freestyle,50,Freestyle,F,Short,23.93
+50 m Freestyle,50,Freestyle,F,Short,24
+50 m Freestyle,50,Freestyle,F,Short,24.04
+50 m Freestyle,50,Freestyle,F,Short,24.04
+50 m Freestyle,50,Freestyle,F,Short,24.05
+50 m Freestyle,50,Freestyle,F,Short,24.48
+100 m Freestyle,100,Freestyle,F,Short,51.81
+100 m Freestyle,100,Freestyle,F,Short,51.92
+100 m Freestyle,100,Freestyle,F,Short,52.01
+100 m Freestyle,100,Freestyle,F,Short,52.12
+100 m Freestyle,100,Freestyle,F,Short,52.43
+100 m Freestyle,100,Freestyle,F,Short,52.52
+100 m Freestyle,100,Freestyle,F,Short,52.53
+100 m Freestyle,100,Freestyle,F,Short,52.74
+200 m Freestyle,200,Freestyle,F,Short,111.73
+200 m Freestyle,200,Freestyle,F,Short,112.28
+200 m Freestyle,200,Freestyle,F,Short,112.5
+200 m Freestyle,200,Freestyle,F,Short,113.39
+200 m Freestyle,200,Freestyle,F,Short,113.79
+200 m Freestyle,200,Freestyle,F,Short,114.21
+200 m Freestyle,200,Freestyle,F,Short,114.49
+200 m Freestyle,200,Freestyle,F,Short,115.51
+400 m Freestyle,400,Freestyle,F,Short,237.78
+400 m Freestyle,400,Freestyle,F,Short,238.9
+400 m Freestyle,400,Freestyle,F,Short,239.41
+400 m Freestyle,400,Freestyle,F,Short,239.89
+400 m Freestyle,400,Freestyle,F,Short,242.61
+400 m Freestyle,400,Freestyle,F,Short,242.7
+400 m Freestyle,400,Freestyle,F,Short,243.69
+400 m Freestyle,400,Freestyle,F,Short,245.95
+50 m Backstroke,50,Backstroke,F,Short,25.82
+50 m Backstroke,50,Backstroke,F,Short,25.99
+50 m Backstroke,50,Backstroke,F,Short,26.14
+50 m Backstroke,50,Backstroke,F,Short,26.15
+50 m Backstroke,50,Backstroke,F,Short,26.16
+50 m Backstroke,50,Backstroke,F,Short,26.4
+50 m Backstroke,50,Backstroke,F,Short,26.42
+50 m Backstroke,50,Backstroke,F,Short,26.46
+100 m Backstroke,100,Backstroke,F,Short,55.54
+100 m Backstroke,100,Backstroke,F,Short,56.24
+100 m Backstroke,100,Backstroke,F,Short,56.45
+100 m Backstroke,100,Backstroke,F,Short,56.46
+100 m Backstroke,100,Backstroke,F,Short,56.73
+100 m Backstroke,100,Backstroke,F,Short,56.8
+100 m Backstroke,100,Backstroke,F,Short,56.93
+100 m Backstroke,100,Backstroke,F,Short,57.28
+200 m Backstroke,200,Backstroke,F,Short,120.79
+200 m Backstroke,200,Backstroke,F,Short,122.24
+200 m Backstroke,200,Backstroke,F,Short,122.65
+200 m Backstroke,200,Backstroke,F,Short,123.98
+200 m Backstroke,200,Backstroke,F,Short,124.09
+200 m Backstroke,200,Backstroke,F,Short,124.56
+200 m Backstroke,200,Backstroke,F,Short,125.02
+200 m Backstroke,200,Backstroke,F,Short,126.29
+50 m Breaststroke,50,Breaststroke,F,Short,28.92
+50 m Breaststroke,50,Breaststroke,F,Short,29.11
+50 m Breaststroke,50,Breaststroke,F,Short,29.58
+50 m Breaststroke,50,Breaststroke,F,Short,29.72
+50 m Breaststroke,50,Breaststroke,F,Short,30.14
+50 m Breaststroke,50,Breaststroke,F,Short,30.28
+50 m Breaststroke,50,Breaststroke,F,Short,30.43
+50 m Breaststroke,50,Breaststroke,F,Short,30.45
+100 m Breaststroke,100,Breaststroke,F,Short,63.03
+100 m Breaststroke,100,Breaststroke,F,Short,63.35
+100 m Breaststroke,100,Breaststroke,F,Short,63.89
+100 m Breaststroke,100,Breaststroke,F,Short,64.62
+100 m Breaststroke,100,Breaststroke,F,Short,64.79
+100 m Breaststroke,100,Breaststroke,F,Short,65.16
+100 m Breaststroke,100,Breaststroke,F,Short,65.23
+100 m Breaststroke,100,Breaststroke,F,Short,65.48
+200 m Breaststroke,200,Breaststroke,F,Short,138.51
+200 m Breaststroke,200,Breaststroke,F,Short,138.52
+200 m Breaststroke,200,Breaststroke,F,Short,138.83
+200 m Breaststroke,200,Breaststroke,F,Short,139.34
+200 m Breaststroke,200,Breaststroke,F,Short,139.88
+200 m Breaststroke,200,Breaststroke,F,Short,139.96
+200 m Breaststroke,200,Breaststroke,F,Short,140.81
+200 m Breaststroke,200,Breaststroke,F,Short,141.94
+50 m Butterfly,50,Butterfly,F,Short,24.92
+50 m Butterfly,50,Butterfly,F,Short,25.27
+50 m Butterfly,50,Butterfly,F,Short,25.32
+50 m Butterfly,50,Butterfly,F,Short,25.33
+50 m Butterfly,50,Butterfly,F,Short,25.35
+50 m Butterfly,50,Butterfly,F,Short,25.51
+50 m Butterfly,50,Butterfly,F,Short,25.54
+50 m Butterfly,50,Butterfly,F,Short,25.66
+100 m Butterfly,100,Butterfly,F,Short,55.12
+100 m Butterfly,100,Butterfly,F,Short,55.22
+100 m Butterfly,100,Butterfly,F,Short,55.64
+100 m Butterfly,100,Butterfly,F,Short,56.15
+100 m Butterfly,100,Butterfly,F,Short,57.12
+100 m Butterfly,100,Butterfly,F,Short,57.22
+100 m Butterfly,100,Butterfly,F,Short,57.35
+100 m Butterfly,100,Butterfly,F,Short,57.56
+200 m Butterfly,200,Butterfly,F,Short,122.15
+200 m Butterfly,200,Butterfly,F,Short,122.89
+200 m Butterfly,200,Butterfly,F,Short,125.1
+200 m Butterfly,200,Butterfly,F,Short,125.66
+200 m Butterfly,200,Butterfly,F,Short,126.2
+200 m Butterfly,200,Butterfly,F,Short,127.19
+200 m Butterfly,200,Butterfly,F,Short,127.49
+200 m Butterfly,200,Butterfly,F,Short,129.42
+100 m Individual Medley,100,Medley,F,Short,57.24
+100 m Individual Medley,100,Medley,F,Short,57.97
+100 m Individual Medley,100,Medley,F,Short,58.04
+100 m Individual Medley,100,Medley,F,Short,58.81
+100 m Individual Medley,100,Medley,F,Short,59
+100 m Individual Medley,100,Medley,F,Short,59.67
+100 m Individual Medley,100,Medley,F,Short,59.89
+100 m Individual Medley,100,Medley,F,Short,59.97
+200 m Individual Medley,200,Medley,F,Short,122.9
+200 m Individual Medley,200,Medley,F,Short,125.02
+200 m Individual Medley,200,Medley,F,Short,125.93
+200 m Individual Medley,200,Medley,F,Short,127.41
+200 m Individual Medley,200,Medley,F,Short,128.47
+200 m Individual Medley,200,Medley,F,Short,128.59
+200 m Individual Medley,200,Medley,F,Short,128.89
+200 m Individual Medley,200,Medley,F,Short,128.95
+400 m Individual Medley,400,Medley,F,Short,261.67
+400 m Individual Medley,400,Medley,F,Short,267.74
+400 m Individual Medley,400,Medley,F,Short,267.78
+400 m Individual Medley,400,Medley,F,Short,267.86
+400 m Individual Medley,400,Medley,F,Short,272.98
+400 m Individual Medley,400,Medley,F,Short,273.07
+400 m Individual Medley,400,Medley,F,Short,277.79
